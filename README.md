@@ -27,9 +27,9 @@ apt-get -y install php wget unzip
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/CamPhish
-cd CamPhish
-bash camphish.sh
+git clone https://github.com/gullnoor596-svg/CR-Capture.git
+cd CR-Capture
+bash khan.sh
 ```
 
 ## Clean logs & unnecessary files :
